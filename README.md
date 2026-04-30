@@ -13,7 +13,7 @@ sorumlusuyum. 2026 sezonu için Pixhawk geçişi üzerinde çalışıyorum.
 - Gömülü sistemler (Arduino, STM32, Jetson)
 - Sensör entegrasyonu (UART, I2C)
 - Otonom sistemler ve robotik
-- Siber güvenlik (CTF)
+- Siber güvenlik (CTF))
 
 ### 🏆 Başarılar
 - TEKNOFEST 2025 İnsansız Deniz Aracı Finalisti
