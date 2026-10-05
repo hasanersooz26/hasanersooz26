@@ -12,7 +12,7 @@
 
 ## Hakkımda
 
-Karamanoğlu Mehmetbey Üniversitesi'nde 3. sınıf Bilgisayar Mühendisliği öğrencisiyim. Gömülü sistemler, sensör entegrasyonu ve güvenli dijital kimlik çözümleri geliştiriyorum. Bir fikri donanımdan haberleşme katmanına, API'den mobil arayüze kadar çalışan bir prototipe dönüştürmeyi seviyorum.
+Karamanoğlu Mehmetbey Üniversitesi'nde 4. sınıf Bilgisayar Mühendisliği öğrencisiyim. Gömülü sistemler, sensör entegrasyonu ve güvenli dijital kimlik çözümleri geliştiriyorum. Bir fikri donanımdan haberleşme katmanına, API'den mobil arayüze kadar çalışan bir prototipe dönüştürmeyi seviyorum.
 
 Şu anda **TUNA Takımı** bünyesinde TEKNOFEST İnsansız Deniz Aracı projesinin gömülü yazılım ve telemetri çalışmalarını yürütüyor; 2026 sezonu için Pixhawk tabanlı mimariye geçiş üzerinde çalışıyorum.
 
@@ -22,6 +22,7 @@ Karamanoğlu Mehmetbey Üniversitesi'nde 3. sınıf Bilgisayar Mühendisliği ö
 |---|---|---|
 | [SafeIdent Wallet Showcase](https://github.com/hasanersooz26/SafeIdent-Wallet-Showcase) | Mahremiyet odaklı dijital kimlik, doğrulanabilir credential, ZKP ile 18+ doğrulama ve sosyal kurtarma prototipi | TypeScript, Solidity, Circom, PostgreSQL, Expo |
 | [TUNA Sensor Parser](https://github.com/hasanersooz26/parser) | İnsansız deniz aracı için UART/I²C sensör füzyonu ve ROS 2 mesajlaşma katmanı | C++, ROS 2, Linux, I²C |
+| [İngilizce Defterim](https://github.com/hasanersooz26/ingilizce-defterim) | Günlük kelime tekrarı, Türkçe dil bilgisi, okuma, dinleme ve alıştırmaları birleştiren PWA/Android uygulaması | Next.js, React, TypeScript, Cloudflare D1, Capacitor |
 | [English 5000 Words](https://github.com/hasanersooz26/english5000words) | Seviye, quiz, hata tekrarı ve çevrimdışı ilerleme takibi sunan Android kelime uygulaması | Kotlin, Android, Room, Coroutines |
 
 ## Teknoloji odağım
