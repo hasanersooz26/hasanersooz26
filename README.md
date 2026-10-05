@@ -40,7 +40,7 @@ Karamanoğlu Mehmetbey Üniversitesi'nde 3. sınıf Bilgisayar Mühendisliği ö
 ## Öne çıkan başarılar
 
 - 🚢 **TEKNOFEST 2025 İnsansız Deniz Aracı Finalisti** — gömülü yazılım ve telemetri
-- 🛡️ **Türkiye Siber Vatan CTF 2026, Karaman 1.'liği**
+- 🛡️ **Türkiye Siber Vatan CTF 2026, Türkiye 5.'liği**
 - 🤖 **Yapay Zeka Topluluğu Başkanı** — Karamanoğlu Mehmetbey Üniversitesi
 
 ## İlgi alanlarım
